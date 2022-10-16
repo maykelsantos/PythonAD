@@ -1,0 +1,5 @@
+print(10 > 2 and 10 > 3)
+print(10 > 2 and 10 > 20)
+print(10 > 2 or 10 < 3)
+print(10 < 2 or 10 < 3)
+print(not(10 < 2))
