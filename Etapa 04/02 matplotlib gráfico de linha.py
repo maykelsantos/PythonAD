@@ -79,3 +79,4 @@ ax[2].plot(x, y3, color = 'orange') # linha 0, coluna 2
 
 for i in range(3):
     ax[1].set(title = f'Subplot {i+1}', xlabel = 'Eixo X', ylabel = 'Eixo Y')
+    
